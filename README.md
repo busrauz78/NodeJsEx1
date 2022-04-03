@@ -8,8 +8,6 @@
 
 <p>These operations;</p>
 
-<br>
-
 * ```fs.mkdir``` : Create folder
 * ```fs.writeFile``` : Create file
 * ```fs.append``` : Added content into existing file
