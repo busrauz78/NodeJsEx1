@@ -10,24 +10,10 @@
 
 <br>
 
-<ul>
-    <li>
-        ```fs.mkdir``` : Create folder
-    </li>
-    <li>
-        ```fs.writeFile``` : Create file
-    </li>
-    <li>
-        ```fs.append``` : Added content into existing file
-    </li>
-    <li>
-        ```fs.readFile``` : Read existing file
-    </li>
-    <li>
-        ```fs.unlink``` : Delete existing file
-    </li>
-    <li>
-        ```fs.rmdir``` : Delete existing folder 
-    </li>
-</ul>
-
+* ```fs.mkdir``` : Create folder
+* ```fs.writeFile``` : Create file
+* ```fs.append``` : Added content into existing file
+* ```fs.readFile``` : Read existing file  
+* ```fs.unlink``` : Delete existing file 
+* ```fs.rmdir``` : Delete existing folder 
+    
