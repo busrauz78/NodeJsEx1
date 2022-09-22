@@ -1,7 +1,7 @@
 # About the FS Module Project
 
 <p>
-    This project includes file system operations which is core module of Node.js.
+    This project includes file system operations which are core modules of Node.js.
 </p>
 
 <br>
